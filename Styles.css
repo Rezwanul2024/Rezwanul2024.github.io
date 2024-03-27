@@ -1,5 +1,9 @@
 nav {
-    background-color: blueviolet;
+    background-color: black;
 
 }
 
+footer {
+background-color: blue;
+justify-content: center;
+}
