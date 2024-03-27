@@ -1,0 +1,114 @@
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>Document</title>
+</head>
+
+<body class="container" itemscope itemtype="https://schema.org/WebPage">
+  <div class="main-div" itemprop="mainEntity" itemscope itemtype="https://schema.org/Book">
+    <div id="title">
+      <h1>George Orwell’s Nineteen Eighty-four: A Short Review</h1>
+      <br>
+      <p> <a href="https://upload.wikimedia.org/wikipedia/commons/c/c3/1984first.jpg">
+          <img itemprop="image" id="img-book" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/1984first.jpg" alt="Book Corner"></a></p>
+    </div>
+    <div id="review" itemprop="review">
+      <p><em><b>Nineteen Eighty-four</b></em> is a world-famous novel, written by <span itemprop="name">George Orwell</span>. The book was first published in 1949. The novel is a cautionary tale about the dangers of a totalitarian government. The book centers around the fictional country of Oceania, which is ruled by a repressive regime known as the Party. The Party controls everything in Oceania, including the thoughts and perceptions of its citizens. The protagonist, Winston Smith is a Party member who starts to question the Party’s ideology and become rebellious. The book explores the themes of control, freedom, and rebellion.</br></br>
+        The story is about a man named Winston who lives in a society where the government controls everything and the people are not allowed to think for themselves. Winston is tired of living in a society where he is not allowed to think for himself, so he decides to rebel against the government. In the modern age, some controls and surveillance programme are also taken for citizens’ safety and security but according to the book in Big Ocean, several surveillance mechanisms are overdone to people, for it deprives nearly all the privacy of people, including freedom, hobby, and independent thought (Qin, 2018). The novel is very well written and it is very suspenseful. There are three slogans in the book that are ignorance is strength, freedom is slavery, and war is peace. The protagonist Winston Smith begins a subtle rebellion by keeping a diary against the party which contains secret thoughts, which is a deadly thought crime. He along with his lover Julia begin a foreordained fight for freedom and justice. In a world where no one else appears to see, or dislike, the oppression the protagonist expressed opposition. He is also a low-ranking party member who is frustrated by the omnipresent eyes of the party, and its ominous ruler Big Brother. ‘Big Brother’ controls every aspect of people’s lives. The party controls what people read, speak, say and do with the threat. If they do not conform, they will be sent to the dreaded Room 101 as a looming punishment. Orwell successfully explored the themes of mass media control, government surveillance, totalitarianism, and how a dictator can manipulate and control history, thoughts, and lives in such a way that no one can escape it. Rothbard (1986) describes the writing as a brilliant and mordant attraction to totalitarian trends in modern society, specifically to communism. Stephens (2004) finds a strong relationship of human liberty to both external nature and human inner nature in <em><b>Nineteen Eighty-four</b></em>.</br></br>
+
+        Orwell’s writing is clear and concise. He effectively conveys the oppressive atmosphere of Oceania and the paranoia that its citizens feel. The book is a thought-provoking read that will leave readers questioning the extent to which their own government controls their lives. In this regard, Bloom (2009) greatly pointed out that <em><b>Nineteen Eighty-four</b></em> survives and will have life whenever we are threatened with totalitarian utopias, whether political, social, economic, or theocratic.</p>
+     </div>
+    <hr>
+
+    <div itemprop="itemReviewed" itemscope itemtype="https://schema.org/Review">
+     
+  <table>   
+    <caption>
+      <h3><span itemprop="details">Dublin Core Metadata Elements for Bibliographic Records:</span></h3>
+        </caption>
+        <tr>
+          <th>Metadata Elements</th>
+          <th>Records from the Reviewed Book</th>
+        </tr>
+        <tr>
+          <td>Title</td>
+          <td>Nineteen Eighty-four</td>
+        </tr>
+        <tr>
+          <td>Creator</td>
+          <td>George Orwell</td>
+        </tr>
+        <tr>
+          <td>Subject</td>
+          <td>Political Fiction</td>
+        </tr>
+        <tr>
+          <td>Description</td>
+          <td>A tale of totalitarian governance</td>
+        </tr>
+        <tr>
+          <td>Publisher</td>
+          <td>Penguin Classics</td>
+        </tr>
+        <tr>
+          <td>Contributor</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>Date</td>
+          <td>1949</td>
+        </tr>
+        <tr>
+          <td>Resource Type</td>
+          <td>Text</td>
+        </tr>
+        <tr>
+          <td>Format</td>
+          <td>Paperback</td>
+        </tr>
+        <tr>
+          <td>Resource Identifier</td>
+          <td>ISBN: 978-0141036144</td>
+        </tr>
+        <tr>
+          <td>Source</td>
+          <td>UWE Bristol Library</td>
+        </tr>
+        <tr>
+          <td>Language</td>
+          <td>English</td>
+        </tr>
+        <tr>
+          <td>Relation</td>
+          <td>Animal Firm</td>
+        </tr>
+        <tr>
+          <td>Coverage</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>Rights Management</td>
+          <td>Penguin Classics</td>
+        </tr>
+    </table>
+    </div>
+    <hr>
+    <div>
+      <div class="row">
+        <div class="col-sm-12">
+
+          <hr>
+          <div class="footer">
+            <p>A book review by Rezwanul Islam (Student ID: 22046248)</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</body>
+
+</html>
